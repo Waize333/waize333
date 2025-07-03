@@ -1,22 +1,28 @@
-<h1 align="center">Hi, I'm Waiz 👋</h1>
-<h3 align="center">A Developer Who Crafts Ideas into Reality</h3>
+<!-- Custom Techno Font Styling (only works on some markdown renderers like GitHub web view) -->
+<h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3rem; font-weight: 900;">
+  👨‍💻 Waiz — Architect of Intelligent Systems
+</h1>
+
+<h3 align="center" style="font-family: Consolas, monospace; font-style: italic; color: #7f8c8d;">
+  A Developer Who Crafts Ideas into Reality
+</h3>
 
 <p align="center">
-  <em>“Don't just build projects. Build <b>tools</b> that solve real problems.”</em>
+  <em style="font-size: 1.2rem;">“Don't just build projects. Build <strong>tools</strong> that solve real problems.”</em>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🚀 Self-taught developer, crypto enthusiast, and AI tinkerer
-- 💼 2+ years of freelance experience in full-stack, AI, and automation
-- 💡 Currently exploring Generative AI, Trading Bots, and DevOps
-- 🧠 Lifelong learner, building tools that automate and amplify
+- 🛠️ Self-taught developer, crypto enthusiast, and AI tinkerer  
+- 💼 2+ years of freelance experience in full-stack, AI, and automation  
+- 🧩 Currently building AI-first solutions that blend reasoning, automation, and human insight  
+- 🧠 Lifelong learner, focused on simplifying complexity through code  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,49 +47,51 @@
 ## 📌 Featured Projects
 
 ### 🔐 [Private Data Assistant](https://huggingface.co/spaces/waize333/private-data-assistant)
-> An AI chatbot that turns PDFs into smart assistants using RAG and WatsonX.
+> Converts unstructured PDFs into intelligent conversational agents using RAG.
 
-- 💡 **Problem Solved**: Extracting insights from large unstructured documents.
-- 🧠 Built with Python, LangChain, ChromaDB, WatsonX.
+- 💡 **Problem Solved**: Extracting context-aware insights from large documents.  
+- 🔧 Tech: LangChain, WatsonX, ChromaDB, Python, Flask
 
 ---
 
 ### 🌍 [AI Translation Assistant](https://huggingface.co/spaces/waize333/ai-translation-assistant)
-> Real-time multilingual voice translator with contextual LLM and voice synthesis.
+> Real-time voice translator with contextual LLM and neural speech synthesis.
 
-- 💡 **Problem Solved**: Robotic translations that lack cultural and conversational context.
-- 🎙️ Powered by WebRTC, IBM Watson, Flask.
+- 💡 **Problem Solved**: Robotic translations that lack nuance in live conversation.  
+- 🔧 Tech: WebRTC, IBM Watson, Flask, JS
 
 ---
 
 ### 💼 [JobCoach – Career Coaching App](https://huggingface.co/spaces/waize333/JobCoach)
-> AI tool for resume polishing, cover letters, and personalized career advice.
+> An all-in-one career assistant for resumes, cover letters, and career advice.
 
-- 💡 **Problem Solved**: Job seekers struggle to stand out with generic materials.
-- 🛠️ Built with Python, OpenAI API, Flask.
+- 💡 **Problem Solved**: Job seekers struggle with personalization and positioning.  
+- 🔧 Tech: Python, Flask, OpenAI API, Modular Structure
 
 ---
 
 ### 📈 [FT-Bot – Futures Trading Bot](https://github.com/waize333/Ft-Bot)
-> GUI-based Python bot for automated trading strategies with live price charts.
+> GUI-based bot for automated trading strategies with live price tracking.
 
-- 💡 **Problem Solved**: Manual trading inefficiencies and emotion-based decisions.
-- 🧪 Includes scalping, trend-following, and mean-reversion strategies.
+- 💡 **Problem Solved**: Emotion-based, inefficient retail trading.  
+- 🔧 Tech: PyQt6, ccxt, Graphing APIs, Python
 
 ---
 
-## 🧠 I’m Learning
+## 🔭 Focus Areas
 
-- ✅ Generative AI (LLMs, RAG, Fine-Tuning)
-- ✅ Cloud Deployment (Docker, HuggingFace, Vercel)
-- ✅ TypeScript + Next.js Full-stack Web Apps
+- 🤖 **AI-first Product Design** – Tools that reason, learn, and automate  
+- 🧬 **Generative AI** – LangChain, Transformers, RAG, Embeddings  
+- 🧠 **Intelligent Agents** – AutoGPT-style workflows, Action-based LLMs  
+- ☁️ **Cloud Deployments** – Vercel, HuggingFace Spaces, Docker  
+- 🧰 **Automation Systems** – Trading bots, cron-driven agents, LLM pipelines  
 
 ---
 
 ## 🤝 Let’s Collaborate
 
 If you're building something creative, experimental, or meaningful — I'm interested.  
-Drop me a message or connect:
+Drop me a message or connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waize333)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://waize333.vercel.app)
@@ -94,8 +102,6 @@ Drop me a message or connect:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waize333&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
----
 
 <!-- Optional GitHub stats -->
 <!--
