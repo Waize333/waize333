@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Who I Am
+## Who I Am
 
 I'm a self-taught developer, systems thinker, and AI tinkerer. With 2+ years of freelance experience, I focus on designing smart tools that simplify complexity and solve real-world problems.
 
@@ -39,7 +39,7 @@ I'm a self-taught developer, systems thinker, and AI tinkerer. With 2+ years of 
 
 I'm open to collaborations where code meets real utility — AI, automation, or intelligent assistants. If you're building something bold, let's talk.
 
-[LinkedIn](https://linkedin.com/in/waize333) • [Portfolio](https://waize333.vercel.app) • [GitHub](https://github.com/waize333)
+[LinkedIn]([https://linkedin.com/in/waize333](https://www.linkedin.com/in/qazi-muhammad-waiz-7613a51b3/)) • [Portfolio](https://qmwaiz.me) • [GitHub](https://github.com/waize333)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waize333&style=flat-square&color=blue" alt="Profile Views" />
