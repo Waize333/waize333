@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center"><i>“Technology isn’t magic. But it should feel like it.”</i></p>
----
 
 ## 🧠 About Me
 
