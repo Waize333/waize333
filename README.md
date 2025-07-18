@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I’m+Waiz;Architect+of+Intelligent+Systems;AI+Engineer+%7C+Automation+Strategist+%7C+System+Designer&center=true&size=28&width=1000" />
 </h1>
 
+<p align="center"><i>“Technology isn’t magic. But it should feel like it.”</i></p>
 ---
 
 ## 🧠 About Me
