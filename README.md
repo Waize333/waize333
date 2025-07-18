@@ -1,62 +1,72 @@
-<!-- Typing Intro Animation (Fixed and Clean) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0A6EFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Waiz+%F0%9F%91%8B;Architect+of+Intelligent+Systems;Building+AI-first+tools+that+solve+real+problems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <i>“Technology isn’t magic. But it should feel like it.”</i>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I’m+Waiz;Architect+of+Intelligent+Systems;AI+Engineer+%7C+Automation+Strategist+%7C+System+Designer&center=true&size=28&width=1000" />
+</h1>
 
 ---
 
 ## 🧠 About Me
 
+<table>
+  <tr>
+    <td width="50%">
+      <p>
+        I’m a self-taught developer & AI systems designer focused on building tools that think, automate, and assist.
+        With 2+ years of hands-on experience, I love turning complex workflows into elegant automations.
+      </p>
+      <ul>
+        <li>🤖 Built AI agents for contextual Q&A over docs</li>
+        <li>📈 Automated trading systems with real-time learning</li>
+        <li>🧾 Career tools: resumes, cover letters & job tracking</li>
+        <li>🌍 Live multilingual voice translation with LLMs</li>
+        <li>🔁 Saved 100s of hours via no-code & code-based workflows</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Toolbox
+
 <p align="center">
-  I'm a systems thinker, self-taught developer, and AI tinkerer who builds tools that simplify complexity and automate decision-making.<br><br>
-  With 2+ years of hands-on experience, I’ve helped startups and individuals by crafting AI agents, smart assistants, and automation systems that remove friction and make work... actually smarter.
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,flask,docker,tailwind,mongodb,firebase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=openai,tensorflow,git,github,vercel,linux,postman" />
 </p>
 
 ---
 
-## 🚀 Project Highlights
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td width="45%" align="center" style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin: 10px;">
-      <h3>🤖 AI Agents</h3>
-      <p>
-        Context-aware LLM agents that read documents, understand user intent, and respond or act intelligently — from research to support bots.
-      </p>
+    <td width="45%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="50" /><br/>
+      <strong>DocReader AI</strong><br/>
+      Contextual document QA using LangChain & RAG pipelines. Handles legal, academic, and business docs.
     </td>
-    <td width="45%" align="center" style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin: 10px;">
-      <h3>📈 Trading Bots</h3>
-      <p>
-        Adaptive bots that analyze market indicators, execute trades with logic, and evolve strategies based on volatility and past performance.
-      </p>
+    <td width="45%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/2972/2972553.png" width="50" /><br/>
+      <strong>AutoTrader Bot</strong><br/>
+      Adaptive crypto trading assistant with market analysis, emotion-free logic, and backtest tracking.
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td width="45%" align="center" style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin: 10px;">
-      <h3>🧾 Job Automation</h3>
-      <p>
-        Intelligent job search pipelines that generate resumes, cover letters, and auto-apply — all tailored to user goals and job context.
-      </p>
+    <td width="45%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="50" /><br/>
+      <strong>Career Copilot</strong><br/>
+      Resume & job-matching assistant that generates tailored applications and tracks outreach in sheets.
     </td>
-    <td width="45%" align="center" style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin: 10px;">
-      <h3>🌍 Voice Interfaces</h3>
-      <p>
-        Real-time translation tools combining Whisper, TTS, and GPT to support multilingual communication via voice — live and fluid.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin: 10px;">
-      <h3>🔁 Automation Workflows</h3>
-      <p>
-        End-to-end automations for scraping, summarizing, emailing, and reporting — powered by agentic systems and event-based triggers.
-      </p>
+    <td width="45%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3813/3813983.png" width="50" /><br/>
+      <strong>Live Speech Translator</strong><br/>
+      Real-time multilingual voice interface using Whisper, OpenAI, and speech synthesis.
     </td>
   </tr>
 </table>
@@ -65,50 +75,34 @@
 
 ---
 
-## 🧰 Tech Toolbox
+## 📈 GitHub Activity
 
 <p align="center">
-  <b>Languages:</b> Python · JavaScript · TypeScript · HTML/CSS<br>
-  <b>Frameworks:</b> Next.js · React · Node.js · Flask · Docker · Tailwind CSS<br>
-  <b>AI/ML:</b> OpenAI API · LangChain · HuggingFace Transformers · IBM WatsonX · RAG Pipelines<br>
-  <b>Databases:</b> MongoDB · Firebase · ChromaDB
+  <img src="https://github-readme-stats.vercel.app/api?username=waize333&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waize333&theme=transparent&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waize333&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## 🤝 Let’s Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waize333&show_icons=true&theme=calm&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=waize333&theme=calm&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waize333&layout=compact&theme=calm&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  I’m open to collaboration, freelance, or long-term partnerships in AI, automation, and real-world agentic systems.<br>
-  If you're building something bold and need an execution partner — let’s talk.
-</p>
+I’m open to collabs where code meets purpose — AI agents, automation, or smart tools.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/qazi-muhammad-waiz-7613a51b3/">
     <img src="https://img.shields.io/badge/LinkedIn-Waiz-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  &nbsp;
   <a href="https://qmwaiz.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-qmwaiz.me-9cf?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/waize333">
-    <img src="https://img.shields.io/badge/GitHub-waize333-black?style=for-the-badge&logo=github" />
+  &nbsp;
+  <a href="https://x.com/QaziWaiz">
+    <img src="https://img.shields.io/badge/Twitter-@QaziWaiz-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waize333&style=flat-square&color=blue" alt="Profile Views" />
