@@ -1,64 +1,57 @@
-<!-- Centered Hero Header -->
 <h1 align="center">👋 Hi, I'm Waiz — Architect of Intelligent Systems</h1>
 <p align="center"><i>“Technology isn’t magic. But it should feel like it.”</i></p>
 
 ---
 
-<!-- About Me in a Card -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="100%">
-        <h2>🧠 About Me</h2>
-        <p>
-          I'm a self-taught developer and systems thinker focused on building tools that reduce friction, automate workflows, and solve real-world inefficiencies.<br><br>
-          Whether it's autonomous agents, voice interfaces, or automation infrastructure — I build for impact, not just function.
-        </p>
-      </td>
-    </tr>
-  </table>
+## 🧠 About Me
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
+
+  <div style="background: #f5f5f5; border-radius: 12px; padding: 20px; width: 90%; max-width: 720px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: left;">
+    <p>
+      I’m a self-taught developer and systems thinker who designs AI-first solutions that automate, simplify, and amplify. <br><br>
+      With 2+ years of freelance experience, I’ve built everything from voice-based LLM agents to fully autonomous job application pipelines. I care about **building tools that work without friction** — tools that actually solve real problems.
+    </p>
+  </div>
+
 </div>
 
 ---
 
-<!-- Project Highlights in Card Format -->
-<h2 align="center">🚀 Project Highlights</h2>
+## 🚀 Projects That Solve Real Problems
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="45%">
-        <h3>🤖 AI Agents</h3>
-        <p>Context-aware assistants that read documents, chat, and take action intelligently.</p>
-      </td>
-      <td width="45%">
-        <h3>📈 Trading Bots</h3>
-        <p>Market-adaptive bots that trade based on signals, trends, and logic — not emotions.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="45%">
-        <h3>🧾 Job Assistants</h3>
-        <p>Automated pipelines that create resumes, cover letters, and apply for jobs for you.</p>
-      </td>
-      <td width="45%">
-        <h3>🌍 Voice Interfaces</h3>
-        <p>Real-time LLM-powered translation and speech interfaces that feel fluid and natural.</p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3>🔄 Workflow Automation</h3>
-        <p>Multi-step task automation that eliminates repetitive work — from scraping to sending.</p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <div style="background: #ffffff; border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <h3>🤖 AI Agents</h3>
+    <p>Built LLM-powered assistants that understand context, answer questions, and take actions intelligently.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <h3>📈 Trading Bots</h3>
+    <p>Developed adaptive bots that detect trends, execute strategies, and learn from market signals in real time.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <h3>🧾 Job Assistants</h3>
+    <p>Automated systems that generate resumes, cover letters, and apply to jobs based on user preferences.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <h3>🌍 Voice Interfaces</h3>
+    <p>Real-time voice translation tools combining Whisper, TTS, and GPT to power fluid multilingual communication.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <h3>🔁 Workflow Automation</h3>
+    <p>Created multi-agent pipelines that handle scraping, summarizing, emailing, and reporting without human input.</p>
+  </div>
+
 </div>
 
 ---
 
-<!-- Tech Stack Section -->
-<h2 align="center">🧰 Tech Stack</h2>
+## 🧰 Tech Stack
 
 <p align="center">
   <b>Languages:</b> Python · JavaScript · TypeScript · HTML/CSS<br>
@@ -69,8 +62,7 @@
 
 ---
 
-<!-- GitHub Stats Section (Professional Theme) -->
-<h2 align="center">📊 GitHub Dashboard</h2>
+## 📊 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waize333&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
@@ -83,10 +75,9 @@
 
 ---
 
-<!-- Contact Section with Button Style Links -->
-<h2 align="center">🤝 Let’s Connect</h2>
+## 🤝 Let’s Connect
 
-<p align="center">I'm open to collaborations in AI, automation, and intelligent tooling. Let’s build something impactful.</p>
+<p align="center">I’m open to AI, automation, or intelligent agent projects that solve real problems. Let’s build something bold together.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/qazi-muhammad-waiz-7613a51b3/">
@@ -102,7 +93,6 @@
 
 ---
 
-<!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waize333&style=flat-square&color=blue" alt="Profile Views" />
 </p>
