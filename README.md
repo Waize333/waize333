@@ -22,20 +22,49 @@
       </ul>
     </td>
     <td>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,flask,docker,tailwind,mongodb,firebase" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=openai,tensorflow,git,github,vercel,linux,postman" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+  <td><strong>Languages</strong></td>
+  <td>Python, JavaScript, TypeScript, Bash</td>
+</tr>
+<tr>
+  <td><strong>Frameworks</strong></td>
+  <td>Flask, Node.js, Next.js, LangChain, PyQt</td>
+</tr>
+<tr>
+  <td><strong>AI & ML</strong></td>
+  <td>OpenAI, Whisper.cpp, Transformers, TensorFlow, FastAPI</td>
+</tr>
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>React, Tailwind CSS, HTML5, CSS3</td>
+</tr>
+<tr>
+  <td><strong>Databases</strong></td>
+  <td>MongoDB, Firebase, PostgreSQL (basic)</td>
+</tr>
+<tr>
+  <td><strong>DevOps</strong></td>
+  <td>Linux, Git, Docker, Vercel, Railway</td>
+</tr>
+<tr>
+  <td><strong>Automation</strong></td>
+  <td>n8n, Zapier, Make, Puppeteer, Selenium</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
